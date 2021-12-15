@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "username": "John Doe",
+  "blocked": false,
+  "cart": "$cart",
+  "carts": "[]$cart",
+  "createdAt": "@datetime:2020-02-15T15:47:51.742Z",
+  "user_type": "@enum:admin,app_user,normal",
+  "user_types": "@enum:admin(0),app_user(1),normal(2)"
+}

@@ -1,0 +1,21 @@
+{
+  "@JsonKey(ignore: true) dynamic": "md",
+  "@JsonKey(name: '+1') int": "loved",
+  "name": "wendux",
+  "age": 20,
+  "data": {
+    "id": "string",
+    "title": "string",
+    "items": [
+      {
+        "$key": "CategoryItem",
+        "entity": "@enum:form,document",
+        "form_response": "ass",
+        "document": "ass"
+      }
+    ]
+  },
+  "meta" : {
+    "forms" : "ass"
+  }
+}
